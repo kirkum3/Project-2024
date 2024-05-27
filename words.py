@@ -1,4 +1,4 @@
-words = [
+words_list = [
     "apple", "banana", "cherry", "date", "elephant", "falcon", "giraffe", "hippopotamus", "iguana", "jaguar",
     "kangaroo", "lion", "monkey", "narwhal", "octopus", "penguin", "quokka", "rabbit", "shark", "tiger",
     "aqua", "black", "cyan", "darkblue", "emerald", "fuchsia", "green", "honey", "indigo", "jade",
