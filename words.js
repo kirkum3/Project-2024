@@ -1,0 +1,21 @@
+words = [
+    "apple", "banana", "cherry", "date", "elephant", "falcon", "giraffe", "hippopotamus", "iguana", "jaguar",
+    "kangaroo", "lion", "monkey", "narwhal", "octopus", "penguin", "quokka", "rabbit", "shark", "tiger",
+    "aqua", "black", "cyan", "darkblue", "emerald", "fuchsia", "green", "honey", "indigo", "jade",
+    "khaki", "lavender", "magenta", "navy", "orange", "pink", "quartz", "red", "silver", "turquoise",
+    "argentina", "brazil", "canada", "denmark", "egypt", "finland", "germany", "hungary", "india", "japan",
+    "kenya", "luxembourg", "mexico", "netherlands", "oman", "portugal", "qatar", "spain", "thailand",
+    "accountant", "biologist", "carpenter", "dentist", "electrician", "farmer", "geologist", "historian", "illustrator", "journalist",
+    "kitten", "lemur", "moose", "newt", "ostrich", "porcupine", "quail", "raccoon", "salmon", "tarantula",
+    "umbra", "violet", "walrus", "xerox", "yak", "zeppelin", "algebra", "biology", "chemistry", "drama",
+    "economics", "french", "geography", "history", "italian", "journalism", "kinesiology", "linguistics", "mathematics", "neuroscience",
+    "opera", "philosophy", "quantum", "robotics", "sociology", "theology", "urbanism", "veterinary", "writing", "zoology",
+    "artichoke", "broccoli", "carrot", "daikon", "eggplant", "fennel", "garlic", "horseradish", "iceberg", "jalapeno",
+    "kale", "leek", "mushroom", "nectarine", "olive", "peach", "quince", "radish", "spinach", "tomato",
+    "umbrella", "vase", "whisk", "xylophone", "yogurt", "zipper", "anvil", "basket", "clock", "doughnut",
+    "envelope", "fork", "glove", "helmet", "ink", "jewel", "kettle", "ladle", "mirror", "notebook",
+    "oven", "pillow", "quilt", "ruler", "spoon", "table", "utensil", "vase", "wallet", "xerox",
+    "yarn", "zebra", "anchor", "bottle", "candle", "drum", "easel", "fan", "globe", "harp",
+    "island", "jacket", "kayak", "lantern", "mountain", "needle", "ocean", "piano", "quiver", "rope",
+    "sword", "tent", "umbrella", "violin", "whistle", "xylophone", "yacht", "zeppelin"
+]
